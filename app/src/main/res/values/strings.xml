@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ALC4Phase1Challenge</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_btn_text">About ALC</string>
+    <string name="profile_btn_text">View My Profile</string>
+    <string name="title_activity_about">About ALC</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="name">Victor Ewere</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email Address: vewere7@gmail.com</string>
+    <string name="phone">Phone Number: +234 814 432 3263</string>
+    <string name="slack">Slack Username: @vewere</string>
+</resources>
